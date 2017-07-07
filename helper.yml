@@ -1,3 +1,2 @@
 libraries:
-  1:
-    filename: translate.livecodescript
+  - filename: translate.livecodescript
