@@ -4,10 +4,10 @@ The **translate** helper manages loading and retrieving strings in your user int
 
 ## Contents
 
-* [Activate the translate framework helper](#activate-the-translate-framework-helper)
+* [Activate the translate helper](#activate-the-translate-helper)
 * [Configuration](#configuration)
 
-## Activate the translate framework helper
+## Activate the translate helper
 
 To add the translate helper to your application you must download it and add the `translate` folder to your application `helpers` folder.
 
