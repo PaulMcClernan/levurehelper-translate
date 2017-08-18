@@ -30,9 +30,9 @@ function _t pKey
   if tStr is empty then
     if the environment is "development" then
       answer error "invalid key passed to _t:" && pKey
-    else
-      put pKey into tStr
     end if
+
+    put pKey into tStr
   end if
 
   return tStr
